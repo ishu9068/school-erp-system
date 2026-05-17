@@ -2,7 +2,7 @@
 ![Contributors](https://img.shields.io/github/contributors/Gaurav-Verma07/school-erp-system?style=for-the-badge)
   ![Forks](https://img.shields.io/github/forks/Gaurav-Verma07/school-erp-system?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Gaurav-Verma07/school-erp-system?style=for-the-badge)
-![License](https://img.shields.io/github/license/Gaurav-Verma07/school-erp-system?style=for-the-badge)
+![License](https://img.shields.io/github/license/Gaurav-Verma07/school-erhttps://github.com/ishu9068/school-erp-system/edit/main/README.mdp-system?style=for-the-badge)
 
 ![](https://img.shields.io/github/issues-raw/Gaurav-Verma07/school-erp-system?color=orange&style=for-the-badge)
 # School ERP System
@@ -48,11 +48,6 @@ _Additional_: `TypeScript`.
 
 If you find an issue or would like to submit an improvement to this project, please submit an issue using the **issues tab** above. If you would like to submit a PR witha fix, reference the issue you created!
 
-## More Details📑
-
-The project already has a dedicated frontend. However, the backend is expected to start from scratch💪.
-Code quality is must in this project for smooth development and shall not be compromised.
-Please go through [CONTRIBUTING.md](https://github.com/Gaurav-Verma07/school-erp-system/blob/main/CONTRIBUTING.md) for contribution guidelines.
  
 
 
